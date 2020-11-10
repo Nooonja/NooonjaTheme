@@ -1,0 +1,9 @@
+/**
+ * @name         NooonjaCSS
+ * @description  CSS for Nooonja
+ * @author       Nooonja
+ * @version      1.0
+ * @source       
+ */
+
+@import "https://raw.githubusercontent.com/Nooonja/NooonjaTheme/main/CSS";
